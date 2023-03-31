@@ -3,13 +3,12 @@
 <h1 align="left">Hey you<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm João Pedro</h1>
 <p align="left"> </p>
 
-- 🔭 I’m currently majoring in Computing Science...
 
-- 🌱 I’m currently learning about Javascript and C++
+[💻] I’m currently majoring in Computing Science...
 
-- 😄 Pronouns: he/him
+[🌱] Also learning and developing my skills in Javascript, C++ and Java
 
-- ⚡ Fun fact: i play piano 
+[✨] Curious fact: i play piano 
 
 ## ⚙️ &nbsp;GitHub Analytics
 

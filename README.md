@@ -3,7 +3,7 @@
 <h1 align="left">Hey you<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm João Pedro</h1>
 <p align="left"> </p>
 
-- 🔭 I’m currently studying at Computing Science...
+- 🔭 I’m currently majoring in Computing Science...
 
 - 🌱 I’m currently learning about Javascript and C++
 

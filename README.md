@@ -5,7 +5,7 @@
 
 <h3>Education</h3>
 
-- Technical Course in Computing - Federal Center for Technological Education of Minas Gerais (2020 - 2022)
+- Technical Course in Computing - Federal Center for Technological Education of Minas Gerais (CEFET-MG) (2020 - 2022)
 - Bacharelor's Degre in Computer Science - Federal University of Juiz de Fora (2023 - Present)
 
 <h3>Technical Experience </h3>
@@ -13,13 +13,17 @@
 - Programming Languages: Java, C++, C, Javascript
 - Development Tools: Visual Studio Code, Git 
 
+<h3>Professional Experience</h3>
+
+- Mobile Application Developer at CEFET-MG 
+- Trainee at Programming Competition at CEFET-MG
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
-<img width="430em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedroSPT&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroSPT&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
-</p>
+<img width="400em" >
+<img width="400em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedroSPT&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
+<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroSPT&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+</img >
 
 ## Contact
 

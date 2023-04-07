@@ -1,14 +1,18 @@
 
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/JoaoPedroSPT/ea2a56b42fae2cba09b2f3e9c1d2d944/raw/89d53b94b106f7752a01aa9bc116f29c652bc819/profile.svg"/>
-<h1 align="left">Hey you<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm João Pedro</h1>
+<img align="right" width="400em" src="https://raw.githubusercontent.com/gist/JoaoPedroSPT/e596cc0e87d97409aa7c99fccf889a0e/raw/4b4a5ceb962f068981175e08827e91c4e4381c24/pc.svg"/>
+<h1 align="left">Hey you<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm João Pedro Martins Cruz</h1>
 <p align="left"> </p>
 
+<h3>Education</h3>
 
-[💻] I’m currently majoring in Computing Science...
+- Technical Course in Computing - Federal Center for Technological Education of Minas Gerais (2020 - 2022)
+- Bacharelor's Degre in Computer Science - Federal University of Juiz de Fora (2023 - Present)
 
-[🌱] Also learning and developing my skills in Javascript, C++ and Java
+<h3>Technical Experience </h3>
 
-[✨] Curious fact: i play piano 
+- Programming Languages: Java, C++, C, Javascript
+- Development Tools: Visual Studio Code, Git 
+
 
 ## ⚙️ &nbsp;GitHub Analytics
 
@@ -17,13 +21,18 @@
 <img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroSPT&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
 </p>
 
-<div>
-  <h1></h1>
- 
-</div>
+## Contact
 
+<p align="left" style="background:yellow">
 
-
+<a href="https://linkedin.com/in/martinsjoaopedro" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-joaopedro-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+  
+<a href="https://instagram.com/for.jpec" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-for.jpec-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+  
 <!--
 
 <br><br>
@@ -44,21 +53,6 @@
 
 <br><br>
 
-## Contact
-
-<p align="left" style="background:yellow">
-<a href="https://codepen.io/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=codepen" alt="codepen"/>
-</a>
-<a href="https://twitter.com/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
-<a href="https://linkedin.com/in/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/maykbrito" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
 <a href="https://youtube.com/maykbrito" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=youtube" alt="youtube"/>
 </a>

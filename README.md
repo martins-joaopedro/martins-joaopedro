@@ -1,5 +1,5 @@
 
-<img align="right" width="400em" src="https://raw.githubusercontent.com/gist/JoaoPedroSPT/e596cc0e87d97409aa7c99fccf889a0e/raw/4b4a5ceb962f068981175e08827e91c4e4381c24/pc.svg"/>
+<img align="right" width="300em" src="https://raw.githubusercontent.com/gist/JoaoPedroSPT/e596cc0e87d97409aa7c99fccf889a0e/raw/4b4a5ceb962f068981175e08827e91c4e4381c24/pc.svg"/>
 <h1 align="left">Hey you<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm João Pedro Martins Cruz</h1>
 <p align="left"> </p>
 

@@ -1,33 +1,8 @@
 
-<img align="right" width="300em" src="https://raw.githubusercontent.com/gist/JoaoPedroSPT/c669e922d23846bd5b566ad6669d60cb/raw/331ce8f3a4ba4a7e082d71621190c07d2ad40730/pc.svg"/>
-<h1 align="left">Hey you<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm João Pedro Martins Cruz</h1>
+<img align="right"  height="600em" width="300em" src="https://raw.githubusercontent.com/gist/JoaoPedroSPT/c669e922d23846bd5b566ad6669d60cb/raw/331ce8f3a4ba4a7e082d71621190c07d2ad40730/pc.svg"/>
 <p align="left"> </p>
 
-<h3>Education</h3>
-
-- Technical Course in Computing - Federal Center for Technological Education of Minas Gerais (CEFET-MG) (2020 - 2022)
-- Bacharelor's Degre in Computer Science - Federal University of Juiz de Fora (2023 - Present)
-
-<h3>Technical Experience </h3>
-
-- Programming Languages: Java, C++, C, Javascript
-- Development Tools: Visual Studio Code, Git 
-
-<h3>Professional Experience</h3>
-
-- Mobile Application Developer at CEFET-MG 
-- Trainee at Programming Competition at CEFET-MG
-
-## ⚙️ &nbsp;GitHub Analytics
-
-<img width="400em" >
-<img width="400em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedroSPT&show_icons=true&theme=vision-friendly-dark"/>
-<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroSPT&theme=vision-friendly-dark"/>
-</img >
-
-## Contact
-
-<p align="left" style="background:yellow">
+<h1 align="left">Hey you, I'm João Pedro Martins Cruz</h1>
 
 <a href="https://linkedin.com/in/martinsjoaopedro" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-joaopedro-05122A?style=flat&logo=linkedin" alt="linkedin"/>
@@ -36,49 +11,34 @@
 <a href="https://instagram.com/for.jpec" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-for.jpec-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-  
-<!--
 
-<br><br>
+<h3>Education</h3>
 
-## 🛠 &nbsp;Tech Stack
+- Technical Course in Computing - Federal Center for Technological Education of Minas Gerais (CEFET-MG) (2020 - 2022)
+- Bacharelor's Degre in Computer Science - Federal University of Juiz de Fora (2023 - Present)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
+<img align="right" width="200em" src="https://raw.githubusercontent.com/gist/JoaoPedroSPT/a666f6329d5b6ebd2693375eb1eb403f/raw/5e6ddbfcbb960eeb5019fc120ad6bec10fba6fd9/divider.svg"/>
 
-<br><br>
+<h3>Technical Experience </h3>
 
-<a href="https://youtube.com/maykbrito" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=youtube" alt="youtube"/>
-</a>
-</p>
+- Programming Languages: Java, C++, C, Javascript
+- Development Tools: Visual Studio Code, Git 
 
+<img align="right" width="300em" src="https://raw.githubusercontent.com/gist/JoaoPedroSPT/a666f6329d5b6ebd2693375eb1eb403f/raw/5e6ddbfcbb960eeb5019fc120ad6bec10fba6fd9/divider.svg"/>
 
--->
+<h3>Professional Experience</h3>
 
-<br><br>
+- Mobile Application Developer at CEFET-MG 
+- Trainee at Programming Competition at CEFET-MG
 
+<img align="right" width="400em" src="https://raw.githubusercontent.com/gist/JoaoPedroSPT/a666f6329d5b6ebd2693375eb1eb403f/raw/5e6ddbfcbb960eeb5019fc120ad6bec10fba6fd9/divider.svg"/>
+
+<br/><br/>
+## ⚙️ &nbsp;GitHub Analytics
+
+<img width="400em" >
+<img width="400em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedroSPT&show_icons=true&theme=vision-friendly-dark"/>
+<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroSPT&theme=vision-friendly-dark"/>
+</img >
 
 
-<!--
-
-
-
-<img width="490em" src="https://github-readme-twitter-gazf.vercel.app/api?id=maykbrito&layout=wide&show_reply=off&show_retweet=off" />
-
-
-**maykbrito/maykbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
--->

@@ -14,7 +14,7 @@
 
 <h3>Education</h3>
 
-- Technical Course in Computing - Federal Center for Technological Education of Minas Gerais (CEFET-MG) (2020 - 2022)
+- Technical High School - Federal Center for Technological Education of Minas Gerais (CEFET-MG) (2020 - 2022)
 - Bacharelor's Degre in Computer Science - Federal University of Juiz de Fora (2023 - Present)
 
 <img align="right" width="200em" src="https://raw.githubusercontent.com/gist/JoaoPedroSPT/a666f6329d5b6ebd2693375eb1eb403f/raw/5e6ddbfcbb960eeb5019fc120ad6bec10fba6fd9/divider.svg"/>
@@ -22,7 +22,6 @@
 <h3>Technical Experience </h3>
 
 - Programming Languages: Java, C++, C, Javascript
-- Development Tools: Visual Studio Code, Git 
 
 <img align="right" width="300em" src="https://raw.githubusercontent.com/gist/JoaoPedroSPT/a666f6329d5b6ebd2693375eb1eb403f/raw/5e6ddbfcbb960eeb5019fc120ad6bec10fba6fd9/divider.svg"/>
 

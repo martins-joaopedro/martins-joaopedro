@@ -23,6 +23,8 @@
 
 - Programming Languages: Java, C++, C, Javascript
 
+- I'm currently developing gamification based Java and ReactNative apps just for fun and exercise
+
 <img align="right" width="300em" src="https://raw.githubusercontent.com/gist/martins-joaopedro/a666f6329d5b6ebd2693375eb1eb403f/raw/5e6ddbfcbb960eeb5019fc120ad6bec10fba6fd9/divider.svg"/>
 
 <h3>Professional Experience</h3>

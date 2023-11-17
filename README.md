@@ -35,7 +35,7 @@
 - Mobile Application Developer at CEFET-MG 
 - Trainee at Programming Competition at CEFET-MG
 
-<img align="right" width="400em" src="https://raw.githubusercontent.com/gist/martins-joaopedro/a666f6329d5b6ebd2693375eb1eb403f/raw/5e6ddbfcbb960eeb5019fc120ad6bec10fba6fd9/divider.svg"/>
+<img align="right" width="400em" height="300em" src="https://raw.githubusercontent.com/gist/martins-joaopedro/a666f6329d5b6ebd2693375eb1eb403f/raw/5e6ddbfcbb960eeb5019fc120ad6bec10fba6fd9/divider.svg"/>
 
 <br/><br/>
 ## ⚙️ &nbsp;GitHub Analytics

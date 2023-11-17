@@ -16,7 +16,6 @@
 
 - Technical High School - Federal Center for Technological Education of Minas Gerais (CEFET-MG) (2020 - 2022)
 - Bacharelor's Degre in Computer Science - Federal University of Juiz de Fora (2023 - Present)
-- Developer for the Biological and Computing Departments in the University
 
 <img align="right" width="200em" src="https://raw.githubusercontent.com/gist/martins-joaopedro/a666f6329d5b6ebd2693375eb1eb403f/raw/5e6ddbfcbb960eeb5019fc120ad6bec10fba6fd9/divider.svg"/>
 
@@ -25,12 +24,13 @@
 - Programming Languages: Java, C++, C, Javascript
 
 - I was developing gamification based Java and ReactNative apps just for fun and exercise
-- I'm currently study backend with Node.js to a personal project focused on self finances management
+- I'm currently studying backend with Node.js to a personal project focused on self finances management
   
 <img align="right" width="300em" src="https://raw.githubusercontent.com/gist/martins-joaopedro/a666f6329d5b6ebd2693375eb1eb403f/raw/5e6ddbfcbb960eeb5019fc120ad6bec10fba6fd9/divider.svg"/>
 
 <h3>Professional Experience</h3>
 
+- Web Developer for the Biological and Computing Departments at UFJF
 - Mobile Application Developer at CEFET-MG 
 - Trainee at Programming Competition at CEFET-MG
 

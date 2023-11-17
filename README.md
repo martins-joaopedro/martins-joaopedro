@@ -27,7 +27,9 @@
 - I was developing gamification based Java and ReactNative apps just for fun and exercise
 - I'm currently study backend with Node.js to a personal project focused on self finances management
   
-
+<br>
+<br>
+<br>
 <img align="right" width="300em" src="https://raw.githubusercontent.com/gist/martins-joaopedro/a666f6329d5b6ebd2693375eb1eb403f/raw/5e6ddbfcbb960eeb5019fc120ad6bec10fba6fd9/divider.svg"/>
 
 <h3>Professional Experience</h3>
@@ -35,7 +37,7 @@
 - Mobile Application Developer at CEFET-MG 
 - Trainee at Programming Competition at CEFET-MG
 
-<img align="right" width="400em" height="300em" src="https://raw.githubusercontent.com/gist/martins-joaopedro/a666f6329d5b6ebd2693375eb1eb403f/raw/5e6ddbfcbb960eeb5019fc120ad6bec10fba6fd9/divider.svg"/>
+<img align="right" width="400em" src="https://raw.githubusercontent.com/gist/martins-joaopedro/a666f6329d5b6ebd2693375eb1eb403f/raw/5e6ddbfcbb960eeb5019fc120ad6bec10fba6fd9/divider.svg"/>
 
 <br/><br/>
 ## ⚙️ &nbsp;GitHub Analytics

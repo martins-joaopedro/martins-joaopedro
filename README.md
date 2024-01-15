@@ -24,7 +24,7 @@
 - Programming Languages: Java, C++, C, Javascript
 
 - I was developing gamification based Java and ReactNative apps just for fun and exercise
-- I'm currently studying backend with Node.js to a personal project focused on self finances management
+- I'm currently studying backend with Java Spring to personal projects 
   
 <img align="right" width="300em" src="https://raw.githubusercontent.com/gist/martins-joaopedro/a666f6329d5b6ebd2693375eb1eb403f/raw/5e6ddbfcbb960eeb5019fc120ad6bec10fba6fd9/divider.svg"/>
 

@@ -21,7 +21,7 @@
 
 <h3>Technical Experience </h3>
 
-- Programming Languages: Java, C++, C, Javascript
+- Programming Languages: Java, C++, Javascript
 
 - I was developing gamification based Java and ReactNative apps just for fun and exercise
 - I'm currently studying backend with Java Spring to personal projects 

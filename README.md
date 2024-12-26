@@ -22,6 +22,7 @@
 <h3>Technical Experience </h3>
 
 - Programming Languages: Java, C++, Javascript
+- Getting Skills with: React, Next, Spring Boot, Tailwind, Typescript, Framermotion and ReactCharts 
 
 - I was developing Java based REST APIs with Spring Boot for backend study
 - But at the moment I'm studying Next with Tailwind for personal projects  
